@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <asp:Button ID="Button1" runat="server" Text="Button" />
+    <asp:Calendar ID="Calendar2" runat="server"></asp:Calendar>
     <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
     <asp:LinkButton ID="LinkButton1" runat="server">LinkButton</asp:LinkButton>
     <div>
